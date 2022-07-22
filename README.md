@@ -1,0 +1,2 @@
+# janu
+my first repo
